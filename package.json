@@ -2,7 +2,7 @@
   "name": "covid19-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.io/samod667/COVID19-Tracker",
+  "homepage": ".",
   "engine": {
     "node": "12.16.1",
     "npm": "6.14.5"
