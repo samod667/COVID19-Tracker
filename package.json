@@ -2,7 +2,7 @@
   "name": "covid19-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/samod667/COVID19-Tracker",
+  "homepage": "https://github.io/samod667/COVID19-Tracker",
   "engine": {
     "node": "12.16.1",
     "npm": "6.14.5"
@@ -15,7 +15,6 @@
     "axios": "^0.19.2",
     "chart.js": "^2.9.3",
     "classnames": "^2.2.6",
-    "gh-pages": "^3.1.0",
     "react": "^16.13.1",
     "react-chartjs-2": "^2.9.0",
     "react-countup": "^4.3.3",
@@ -44,5 +43,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }
