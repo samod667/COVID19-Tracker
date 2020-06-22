@@ -9,3 +9,4 @@
 <li>Check for COVID-19 cases globally and by country</li>
 <li>Get recovered, infected and deaths number globally and for each country</li>
 </ul>
+<span>Stay healthy 💪🏻</span>
