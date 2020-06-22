@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://github.com/samod667/COVID19-Tracker",
+  "engine": {
+    "node": "12.16.1",
+    "npm": "6.14.5"
+  }
   "dependencies": {
     "@material-ui/core": "^4.10.2",
     "@testing-library/jest-dom": "^4.2.4",
